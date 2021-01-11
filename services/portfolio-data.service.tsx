@@ -7,9 +7,9 @@ import { ISocialIcon } from "../components/shared/social/social";
 
 export default class PortfolioDataService {
   public static readonly userDetails: IUserDetails = {
-    firstName: "Harvey",
-    lastName: "Delaney",
-    title: "Software Engineer"
+    firstName: "Yuvarajendra",
+    lastName: "Anjaneya Reddy",
+    title: "Aeronautical Engineer"
   };
 
   public static readonly aboutTextList: string[] = [
